@@ -1,0 +1,26 @@
+body{
+
+    background-image:url(https://i.pinimg.com/564x/42/95/8f/42958fe4cc65808db3b740c5391cb8f1.jpg);
+       color: #1e8c93;
+       font-family:  Garamond;
+   }
+   .text_principal{
+    font-family:  Garamond;
+    display: contents;
+   }
+   p {
+        color: #1d5e69;
+   }
+   h1{
+       color: #2f1335;
+   }
+   .text{
+       color: #413040;
+      
+   }
+   img{
+    width: 300px;
+    height: 200px;
+    border-radius: 74px;
+    margin: 5px 9px;
+   }
